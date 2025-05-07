@@ -1,5 +1,4 @@
-# 📌 Project Title:
-Gym Fitness – Responsive Fitness Website Using HTML, CSS, JS & PHP
+# Gym Fitness – Responsive Fitness Website Using HTML, CSS, JS & PHP
 
 📖 Description:
 Gym Fitness is a responsive website project designed for gyms and fitness centers. It provides users with a clean and interactive experience to learn about fitness services, trainers, schedules, and contact options. Built with HTML, CSS, JavaScript for the front end, and PHP with MySQL for handling form submissions and storing contact data.
