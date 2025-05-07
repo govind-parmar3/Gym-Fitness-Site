@@ -1,8 +1,26 @@
-# site view
-# contact <br>Email : gp863067@gmail.com<br>
-whatsapp.https://t.ly/Zfyei<br>
-LinkedIn https://www.linkedin.com/in/govind-parmar-1a5ba02a3/
+📌 Project Title:
+Gym Fitness – Responsive Fitness Website Using HTML, CSS, JS & PHP
 
+📖 Description:
+Gym Fitness is a responsive website project designed for gyms and fitness centers. It provides users with a clean and interactive experience to learn about fitness services, trainers, schedules, and contact options. Built with HTML, CSS, JavaScript for the front end, and PHP with MySQL for handling form submissions and storing contact data.
+
+🔧 Features:
+Home, Services, About, Trainers, and Contact sections
+
+Fully responsive design for mobile, tablet, and desktop
+
+Smooth scrolling and effects using JavaScript
+
+Contact form with PHP and MySQL database integration
+
+SEO-friendly clean code structure
+
+🛠️ Tech Stack:
+Frontend: HTML5, CSS3, JavaScript
+
+Backend: PHP
+
+Database: MySQL
 
 ![Screenshot (116)](https://github.com/user-attachments/assets/d1d6b04b-4590-47c1-8476-59f705db6980)
 ![Screenshot (117)](https://github.com/user-attachments/assets/2fbaac2a-6fda-4b99-a876-eb69310d2d89)
