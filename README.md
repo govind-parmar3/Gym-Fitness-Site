@@ -22,6 +22,19 @@ Backend: PHP
 
 Database: MySQL
 
+🧑‍💻 Developed By:
+Govind Parmar – Front-End & WordPress Developer
+
+🌐 Portfolio : https://govind.rf.gd/?i=1
+
+💼 LinkedIn : https://www.linkedin.com/in/govind-parmar-1a5ba02a3/
+
+🧑‍💻 GitHub : https://github.com/govind-parmar3
+
+💬 contact : https://t.ly/Zfyei
+
+
+
 ![Screenshot (116)](https://github.com/user-attachments/assets/d1d6b04b-4590-47c1-8476-59f705db6980)
 ![Screenshot (117)](https://github.com/user-attachments/assets/2fbaac2a-6fda-4b99-a876-eb69310d2d89)
 ![Screenshot (118)](https://github.com/user-attachments/assets/9b676ba8-07b2-46fd-9486-12d8cba05566)
