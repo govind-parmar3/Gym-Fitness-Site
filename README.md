@@ -1,4 +1,4 @@
-📌 Project Title:
+# 📌 Project Title:
 Gym Fitness – Responsive Fitness Website Using HTML, CSS, JS & PHP
 
 📖 Description:
